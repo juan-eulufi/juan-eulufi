@@ -1,6 +1,6 @@
-# <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> | Juan Gerardo Eulufi Salazar
+# Juan Eulufi
 
-**`(FullStack-Developer)`**
+**`(Ingeniero de Software)`**
 
 <samp>
 Me gusta contribuir al desarrollo open-source, estoy en un proyecto de +290k de Starred ⭐ en Github @roadmap.sh y desarrollo proyectos personales cuando tengo tiempo libre.
