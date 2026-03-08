@@ -3,8 +3,7 @@ Hi There! 👋
 <br>
 <samp>
 Juan Eulufí Salazar / Software Engineer @bolsadesantiago
-<br><br>
-<samp>
+<br>
   
 I enjoy contributing to open-source development. I'm currently part of a project with +290k stars ⭐ on GitHub @roadmap.sh, and I build personal projects whenever I have free time.
 <br>
@@ -22,4 +21,3 @@ I enjoy contributing to open-source development. I'm currently part of a project
 Amazon Web Services, Google, IBM, AWS, Accenture, OpenBootcamp, Desafío Latam, CertiProf and more.
 
 https://www.linkedin.com/in/juan-eulufi/details/certifications/
-</samp>
